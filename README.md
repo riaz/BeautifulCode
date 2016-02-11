@@ -5,11 +5,11 @@ This repository will contain the coding conventions that I follow when programmi
 
 Languages (Used in examples):
 ------------------------------
-+Java
-+Python
-+C
-+C++
-+Javascript
+    +Java
+    +Python
+    +C
+    +C++
+    +Javascript
 
 
 
